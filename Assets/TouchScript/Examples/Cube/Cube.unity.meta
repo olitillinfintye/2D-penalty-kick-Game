@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 179bea80bb29f49ab9d5761fc9d3738b
+timeCreated: 1451049198
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Cube/Cube.unity
+  uploadId: 192833

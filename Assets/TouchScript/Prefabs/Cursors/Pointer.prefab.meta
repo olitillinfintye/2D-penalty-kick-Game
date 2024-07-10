@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4230502e1973f4c9e9ef6767dcc8c602
+timeCreated: 1448655580
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Prefabs/Cursors/Pointer.prefab
+  uploadId: 192833

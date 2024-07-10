@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3b34d0a4b336446dd98f5f9951fe6480
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Multiuser/Multiuser.unity
+  uploadId: 192833

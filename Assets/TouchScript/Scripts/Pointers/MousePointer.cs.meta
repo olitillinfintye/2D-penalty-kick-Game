@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e64c6133ea9544d7a840a578e56d596a
+timeCreated: 1467465330
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Scripts/Pointers/MousePointer.cs
+  uploadId: 192833

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55576da10f8e2478e9aec42a40f85554
+timeCreated: 1451059945
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Cube/Prefabs/Pointer Hit.prefab
+  uploadId: 192833

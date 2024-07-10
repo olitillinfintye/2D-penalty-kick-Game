@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bcdc6ef93ccbe452bbf3f836f03beea3
+timeCreated: 1467501141
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Scripts/Pointers/PointerFactory.cs
+  uploadId: 192833

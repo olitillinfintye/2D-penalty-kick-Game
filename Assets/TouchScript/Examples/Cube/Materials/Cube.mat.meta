@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7414b9f60fb074ad4a74546362f312ab
+timeCreated: 1451049350
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Cube/Materials/Cube.mat
+  uploadId: 192833

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9bc4a96ba8ead427ab54f883160abc15
+DefaultImporter:
+  userData: "2"
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Camera/Camera.unity
+  uploadId: 192833

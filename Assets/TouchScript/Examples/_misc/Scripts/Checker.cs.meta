@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60db96ea91c9945beaa1406a5a90dd9b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/_misc/Scripts/Checker.cs
+  uploadId: 192833

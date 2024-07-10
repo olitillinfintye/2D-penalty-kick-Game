@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8b337721b25c44a1bd825aa64c2df73
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Colors/Scripts/Colors.cs
+  uploadId: 192833

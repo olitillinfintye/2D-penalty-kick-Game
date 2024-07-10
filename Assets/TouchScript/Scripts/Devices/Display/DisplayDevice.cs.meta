@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3bb766ec5aebe4332b86a7b9b50eb01d
+timeCreated: 1447582130
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Scripts/Devices/Display/DisplayDevice.cs
+  uploadId: 192833

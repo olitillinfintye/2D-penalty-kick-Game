@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9c4b35b5ee8a443439ce04199575743f
+timeCreated: 1448726331
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Modules/TUIO/Scripts/InputSources/TuioInput.cs
+  uploadId: 192833

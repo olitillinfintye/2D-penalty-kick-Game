@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c0727eb6299e14d74accd8ae22d26fec
+timeCreated: 1447582131
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Scripts/Core/DebuggableMonoBehaviour.cs
+  uploadId: 192833

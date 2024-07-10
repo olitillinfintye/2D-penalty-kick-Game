@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d0145ec13410624f9b2939e5d5a99be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/_misc/Scripts/Runner.cs
+  uploadId: 192833

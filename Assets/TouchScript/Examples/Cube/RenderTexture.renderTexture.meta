@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06f7dd8a0a9854c66bb01e04d58f2861
+timeCreated: 1451049379
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Cube/RenderTexture.renderTexture
+  uploadId: 192833

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bb0a05fd2c374477cba1d93212b4600c
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/_misc/Models/Checkerboard/CheckerDark.prefab
+  uploadId: 192833

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1b8be3f2cf5594c6ea36e9a3843139dc
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Photos/RenderTexture.renderTexture
+  uploadId: 192833

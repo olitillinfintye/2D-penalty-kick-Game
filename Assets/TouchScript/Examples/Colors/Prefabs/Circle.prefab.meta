@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2b3f65a7742c848579d12e8fc10951b1
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Colors/Prefabs/Circle.prefab
+  uploadId: 192833

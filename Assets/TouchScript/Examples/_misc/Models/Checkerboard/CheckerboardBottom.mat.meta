@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bade3b3ccc3024624b44815e95a6af4e
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/_misc/Models/Checkerboard/CheckerboardBottom.mat
+  uploadId: 192833

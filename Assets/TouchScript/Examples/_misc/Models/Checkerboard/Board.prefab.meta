@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 4af91eff6c67b4995be4765a62f7eb5d
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/_misc/Models/Checkerboard/Board.prefab
+  uploadId: 192833

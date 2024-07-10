@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8d231b90191d4ffcae71a475e432b7d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/_misc/Scripts/KillMe.cs
+  uploadId: 192833

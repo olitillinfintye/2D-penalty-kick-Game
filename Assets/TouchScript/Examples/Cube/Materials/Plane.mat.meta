@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08401881b8b2542f1b283eac02c865aa
+timeCreated: 1451059428
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Cube/Materials/Plane.mat
+  uploadId: 192833

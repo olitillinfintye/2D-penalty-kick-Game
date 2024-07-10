@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5013fa58cea314376b273bd8905581f4
+DefaultImporter:
+  userData: "1"
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Taps/Taps.unity
+  uploadId: 192833

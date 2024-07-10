@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2be5f17d5476d2e4a98d02449616ff1e
+timeCreated: 1500755913
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Scripts/ILayerManager.cs
+  uploadId: 192833

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 52832a1748b2b4dfaae6bcec7cf1721e
+timeCreated: 1500501497
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Editor/EditorUI/PagedList.cs
+  uploadId: 192833

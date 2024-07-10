@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d1e3a7a4a02e347bca24205e78d75ba4
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/license.txt
+  uploadId: 192833

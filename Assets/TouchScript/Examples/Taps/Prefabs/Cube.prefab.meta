@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3c294c033fb7140d09b0bd33830617bb
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Taps/Prefabs/Cube.prefab
+  uploadId: 192833

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d2d72c9d6bd55482db3ece50442c7353
+timeCreated: 1447582131
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Scripts/Debugging/GL/GLDebug.cs
+  uploadId: 192833

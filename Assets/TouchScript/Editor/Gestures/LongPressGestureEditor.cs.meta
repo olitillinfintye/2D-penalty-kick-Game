@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 36027325105764b7b978c0b8e8059eaf
+timeCreated: 1447582130
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Editor/Gestures/LongPressGestureEditor.cs
+  uploadId: 192833

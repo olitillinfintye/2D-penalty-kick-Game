@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 970484224830949ada146ff42a9f50e6
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/RawInput/Prefabs/Ball.prefab
+  uploadId: 192833

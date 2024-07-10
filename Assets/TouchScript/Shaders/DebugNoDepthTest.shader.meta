@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3486b6985d7504c0c9996ab3d9ea1ed7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Shaders/DebugNoDepthTest.shader
+  uploadId: 192833

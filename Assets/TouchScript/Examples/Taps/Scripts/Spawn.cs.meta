@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0dccb7916075489e8e35e86d097d75b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Taps/Scripts/Spawn.cs
+  uploadId: 192833

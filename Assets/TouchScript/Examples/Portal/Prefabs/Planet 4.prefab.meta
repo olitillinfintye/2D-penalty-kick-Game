@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d11e87ec08ce584a818342513bf6616
+timeCreated: 1500762549
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7394
+  packageName: TouchScript
+  packageVersion: 9.0
+  assetPath: Assets/TouchScript/Examples/Portal/Prefabs/Planet 4.prefab
+  uploadId: 192833
