@@ -32,6 +32,7 @@ public class Random_Position : MonoBehaviour
 
     void OnMouseDown()
     {
+        scoreScript.scoreValue += 1;
         Destroy(gameObject);
         // score++;
         // scoreText.text = score.ToString();

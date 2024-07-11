@@ -6,8 +6,8 @@ public class SpawnerController : MonoBehaviour
     public Transform[] spawnPoints;
     public GameObject[] Targets;
     private int randomSpawnPoints, randomTarget;
-    public int score;
-    public Text scoreText;
+    // public int score;
+    // public Text scoreText;
     private int spawnedTargets = 0;
     private const int maxTargets = 5;
 
@@ -32,9 +32,9 @@ public class SpawnerController : MonoBehaviour
         // UpdateScore();
     }
 
-    private void UpdateScore()
-    {
-        score++;
-        scoreText.text = score.ToString();
-    }
+    // private void UpdateScore()
+    // {
+    //     score++;
+    //     scoreText.text = score.ToString();
+    // }
 }
