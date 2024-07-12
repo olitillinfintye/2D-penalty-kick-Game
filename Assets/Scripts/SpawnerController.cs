@@ -11,7 +11,7 @@ public class SpawnerController : MonoBehaviour
     [SerializeField] TextMeshProUGUI timerText;
     [SerializeField] float remainingTime;
     private int spawnedTargets = 0;
-    private const int maxTargets = 5;
+    [SerializeField] int maxTargets = 50;
 
     private void Start()
     {
@@ -51,5 +51,7 @@ public class SpawnerController : MonoBehaviour
         {
             Destroy(target);
         }
+        
+       
     }
 }
