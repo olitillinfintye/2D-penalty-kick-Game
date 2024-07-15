@@ -12,6 +12,7 @@ public class SpawnerController : MonoBehaviour
     [SerializeField] float remainingTime;
     private int spawnedTargets = 0;
     [SerializeField] int maxTargets = 50;
+    
 
     private void Start()
     {
@@ -41,6 +42,7 @@ public class SpawnerController : MonoBehaviour
         {
             CancelInvoke("SpawnATarget");
             DestroyAllActiveTargets();
+            
         }
     }
 

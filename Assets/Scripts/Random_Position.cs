@@ -1,40 +1,51 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Random_Position : MonoBehaviour
+public class RandomPosition : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public float speed = 5f;
+    private bool isMovingTarget;
+    private GameObject target;
+    [SerializeField] private GameObject effectVFX;
+    [SerializeField] private AudioClip destroySound;
+    private AudioSource audioSource;
 
-    // public Vector2 pos;
-    // public int score;
-    // public Text scoreText;
-
-
-    // void Start()
-    // {
-       
-    //     move();
-    // }
-
-    // // Update is called once per frame
-    // void Update()
-    // {
-    //     if(Input.GetMouseButtonDown(0)){
-    //         move();
-            
-    //     }
-    // }
-
-    // void move(){
-    //      transform.position = new Vector2(Random.Range(0,pos.x),Random.Range(0,pos.y));
-
-    // }
+    void Start()
+    {
+        target = GameObject.FindGameObjectWithTag("tocount");
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+        audioSource.volume = 1f;
+    }
 
     void OnMouseDown()
     {
         scoreScript.scoreValue += 1;
+        GetComponent<Collider2D>().enabled = false;
+        isMovingTarget = true;
+        PlayDestroySound();
         Destroy(gameObject);
-        // score++;
-        // scoreText.text = score.ToString();
+        GameObject explosion = Instantiate(effectVFX, transform.position, transform.rotation);
+        Destroy(explosion, 0.5f);
+    }
+
+    private void Update()
+    {
+        if (isMovingTarget && target != null)
+        {
+            transform.position = Vector3.Lerp(transform.position, target.transform.position, speed * Time.deltaTime);
+        }
+    }
+
+    private void PlayDestroySound()
+    {
+        if (destroySound != null)
+        {
+            audioSource.PlayOneShot(destroySound);
+        }
     }
 }
