@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityEngine.UI;
+using TouchScript.Gestures;
 
 public class RandomPosition : MonoBehaviour
 {
@@ -10,10 +11,28 @@ public class RandomPosition : MonoBehaviour
     [SerializeField] private GameObject effectVFX;
     [SerializeField] private AudioClip destroySound;
     private AudioSource audioSource;
+    private TapGesture gesture;
+    private Rigidbody rb;
+    private Camera activeCamera;
 
+   /* private void OnEnable()
+    {
+        activeCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
+        gesture = GetComponent<TapGesture>();
+        gesture.Tapped += tappedHandler;
+    }
+
+    private void OnDisable()
+    {
+        gesture.Tapped -= tappedHandler;
+    }*/
     void Start()
     {
         target = GameObject.FindGameObjectWithTag("tocount");
+        if (target == null)
+        {
+            Debug.LogError("Target object with tag 'tocount' not found.");
+        }
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
         {
@@ -25,6 +44,7 @@ public class RandomPosition : MonoBehaviour
     void OnMouseDown()
     {
         scoreScript.scoreValue += 1;
+       // SpawnerController.scoreValue += 1;
         GetComponent<Collider2D>().enabled = false;
         isMovingTarget = true;
         PlayDestroySound();
@@ -32,7 +52,22 @@ public class RandomPosition : MonoBehaviour
         GameObject explosion = Instantiate(effectVFX, transform.position, transform.rotation);
         Destroy(explosion, 0.5f);
     }
-
+   /* private void tappedHandler(object sender, System.EventArgs e)
+    {
+        var ray = activeCamera.ScreenPointToRay(gesture.ScreenPosition);
+        RaycastHit hit;
+        if (Physics.Raycast(ray, out hit) && hit.transform == transform)
+        {
+            scoreScript.scoreValue += 1;
+            GetComponent<Collider2D>().enabled = false;
+            isMovingTarget = true;
+            PlayDestroySound();
+            Destroy(gameObject);
+            GameObject explosion = Instantiate(effectVFX, transform.position, transform.rotation);
+            Destroy(explosion, 0.5f);
+        }
+    }
+*/
     private void Update()
     {
         if (isMovingTarget && target != null)
