@@ -701,7 +701,7 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   scriptingDefineSymbols:
-    Standalone: TOUCHSCRIPT_TUIO
+    Standalone: TOUCHSCRIPT_TUIO;AURA_IN_SCENEVIEW;AURA_IN_PROJECT
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
