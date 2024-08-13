@@ -15,7 +15,7 @@ public class RandomPosition : MonoBehaviour
     private Rigidbody rb;
     private Camera activeCamera;
 
-   /* private void OnEnable()
+    private void OnEnable()
     {
         activeCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
         gesture = GetComponent<TapGesture>();
@@ -25,7 +25,7 @@ public class RandomPosition : MonoBehaviour
     private void OnDisable()
     {
         gesture.Tapped -= tappedHandler;
-    }*/
+    }
     void Start()
     {
         target = GameObject.FindGameObjectWithTag("tocount");
@@ -40,34 +40,35 @@ public class RandomPosition : MonoBehaviour
         }
         audioSource.volume = 1f;
     }
+    
 
     void OnMouseDown()
     {
         scoreScript.scoreValue += 1;
        // SpawnerController.scoreValue += 1;
-        GetComponent<Collider2D>().enabled = false;
+        GetComponent<Collider>().enabled = false;
         isMovingTarget = true;
         PlayDestroySound();
         Destroy(gameObject);
         GameObject explosion = Instantiate(effectVFX, transform.position, transform.rotation);
-        Destroy(explosion, 0.5f);
+        Destroy(explosion, 0.8f);
     }
-   /* private void tappedHandler(object sender, System.EventArgs e)
+    private void tappedHandler(object sender, System.EventArgs e)
     {
         var ray = activeCamera.ScreenPointToRay(gesture.ScreenPosition);
         RaycastHit hit;
         if (Physics.Raycast(ray, out hit) && hit.transform == transform)
         {
             scoreScript.scoreValue += 1;
-            GetComponent<Collider2D>().enabled = false;
+            GetComponent<Collider>().enabled = false;
             isMovingTarget = true;
             PlayDestroySound();
             Destroy(gameObject);
             GameObject explosion = Instantiate(effectVFX, transform.position, transform.rotation);
-            Destroy(explosion, 0.5f);
+            Destroy(explosion, 0.8f);
         }
     }
-*/
+
     private void Update()
     {
         if (isMovingTarget && target != null)

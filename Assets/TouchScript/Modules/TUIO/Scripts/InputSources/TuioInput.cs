@@ -84,7 +84,9 @@ namespace TouchScript.InputSources
 
         [SerializeField]
         private int tuioPort = 3333;
-
+        
+        [SerializeField]
+        public int tuioPort2 = 3333;
         [SerializeField]
         private InputType supportedInputs = InputType.Cursors | InputType.Blobs | InputType.Objects;
 

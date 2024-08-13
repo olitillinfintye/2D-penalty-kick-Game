@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 2a379cf0bce68a044becb2222828745c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8657040743666485867
+    second: leaderboard UI-05_0
+  - first:
+      213: 823729191727158031
+    second: leaderboard UI-05_1
+  - first:
+      213: -3217709962438916036
+    second: leaderboard UI-05_2
+  - first:
+      213: 8366133683779727152
+    second: leaderboard UI-05_3
+  - first:
+      213: 8406021594118510058
+    second: leaderboard UI-05_4
+  - first:
+      213: -5207434435314370706
+    second: leaderboard UI-05_5
+  - first:
+      213: 4267223043203516832
+    second: leaderboard UI-05_6
+  - first:
+      213: 7920684878014575391
+    second: leaderboard UI-05_7
+  - first:
+      213: -1051599504727051550
+    second: leaderboard UI-05_8
+  - first:
+      213: -6484344746401260592
+    second: leaderboard UI-05_9
+  - first:
+      213: 2570815121556104494
+    second: leaderboard UI-05_10
+  - first:
+      213: 8134836445241417119
+    second: leaderboard UI-05_11
+  - first:
+      213: 6864243278285611184
+    second: leaderboard UI-05_12
+  - first:
+      213: -5182461006015396089
+    second: leaderboard UI-05_13
+  - first:
+      213: -4004975854258389136
+    second: leaderboard UI-05_14
+  - first:
+      213: 3124071238731935818
+    second: leaderboard UI-05_15
+  - first:
+      213: -3740190778847423734
+    second: leaderboard UI-05_16
+  - first:
+      213: -8945445984493852041
+    second: leaderboard UI-05_17
+  - first:
+      213: 5674547349784398661
+    second: leaderboard UI-05_18
+  - first:
+      213: -7923232496696435357
+    second: leaderboard UI-05_19
+  - first:
+      213: 6678428498268581637
+    second: leaderboard UI-05_20
+  - first:
+      213: -1514101490731488717
+    second: leaderboard UI-05_21
+  - first:
+      213: -348899255034961440
+    second: leaderboard UI-05_22
+  - first:
+      213: -2656254643906473495
+    second: leaderboard UI-05_23
+  - first:
+      213: 189972320609946968
+    second: leaderboard UI-05_24
+  - first:
+      213: 5679153597874207060
+    second: leaderboard UI-05_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaderboard UI-05_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 219
+        width: 98
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a035c70bcf32870800000000000000
+      internalID: 8657040743666485867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 219
+        width: 91
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035408e5597e6b00800000000000000
+      internalID: 823729191727158031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 219
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c79a56d56853d0800000000000000
+      internalID: -3217709962438916036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 218
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fee1d724a7a1470800000000000000
+      internalID: 8366133683779727152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 219
+        width: 92
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae552b35a1038a470800000000000000
+      internalID: 8406021594118510058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 219
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6733f3a8f97bb7b0800000000000000
+      internalID: -5207434435314370706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 219
+        width: 106
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c183cfb8383b30800000000000000
+      internalID: 4267223043203516832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 217
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13fdd35eecebed60800000000000000
+      internalID: 7920684878014575391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 219
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e274c272d7f761f0800000000000000
+      internalID: -1051599504727051550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_9
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 219
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db15950fcaf206a0800000000000000
+      internalID: -6484344746401260592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_10
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 218
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ed877bbe5da320800000000000000
+      internalID: 2570815121556104494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 43
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d148095aeb4e070800000000000000
+      internalID: 8134836445241417119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 42
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0a31ea4e0b24f50800000000000000
+      internalID: 6864243278285611184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 43
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70783224c233418b0800000000000000
+      internalID: -5182461006015396089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 43
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f79e80ea77b68c0800000000000000
+      internalID: -4004975854258389136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 43
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40b1a55d3eea5b20800000000000000
+      internalID: 3124071238731935818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 43
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a039b929d4c281cc0800000000000000
+      internalID: -3740190778847423734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 43
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aacc8a5446bd380800000000000000
+      internalID: -8945445984493852041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_18
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 43
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b8805efba00ce40800000000000000
+      internalID: 5674547349784398661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_19
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 43
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd399f5060b0290800000000000000
+      internalID: -7923232496696435357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_20
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 42
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe429d55b8eac50800000000000000
+      internalID: 6678428498268581637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 42
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a6f0b57b4dcfae0800000000000000
+      internalID: -1514101490731488717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_22
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 42
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12e31e9f5782bf0800000000000000
+      internalID: -348899255034961440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_23
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 43
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e119fc8976132bd0800000000000000
+      internalID: -2656254643906473495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_24
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 43
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dcc1fa1dae2a200800000000000000
+      internalID: 189972320609946968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard UI-05_25
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 42
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597c2a9b1860de40800000000000000
+      internalID: 5679153597874207060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leaderboard UI-05_0: 8657040743666485867
+      leaderboard UI-05_1: 823729191727158031
+      leaderboard UI-05_10: 2570815121556104494
+      leaderboard UI-05_11: 8134836445241417119
+      leaderboard UI-05_12: 6864243278285611184
+      leaderboard UI-05_13: -5182461006015396089
+      leaderboard UI-05_14: -4004975854258389136
+      leaderboard UI-05_15: 3124071238731935818
+      leaderboard UI-05_16: -3740190778847423734
+      leaderboard UI-05_17: -8945445984493852041
+      leaderboard UI-05_18: 5674547349784398661
+      leaderboard UI-05_19: -7923232496696435357
+      leaderboard UI-05_2: -3217709962438916036
+      leaderboard UI-05_20: 6678428498268581637
+      leaderboard UI-05_21: -1514101490731488717
+      leaderboard UI-05_22: -348899255034961440
+      leaderboard UI-05_23: -2656254643906473495
+      leaderboard UI-05_24: 189972320609946968
+      leaderboard UI-05_25: 5679153597874207060
+      leaderboard UI-05_3: 8366133683779727152
+      leaderboard UI-05_4: 8406021594118510058
+      leaderboard UI-05_5: -5207434435314370706
+      leaderboard UI-05_6: 4267223043203516832
+      leaderboard UI-05_7: 7920684878014575391
+      leaderboard UI-05_8: -1051599504727051550
+      leaderboard UI-05_9: -6484344746401260592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
